@@ -1,0 +1,16 @@
+table {
+  max-width: 100%;
+  width: 850px;
+  margin: 3rem auto;
+  /* border-collapse: collapse; */
+}
+
+th {
+    background-color: rgb(241, 202, 150);
+    column-span: all;
+}
+
+td{
+    background-color: rgb(255, 244, 230);
+    padding: .6rem;
+}
